@@ -1,7 +1,22 @@
 public class SetUp {
     //setting up project for everyone
 
-    //first commit by cetin
+    // some small changes
 
-    //second commit
+    // no more changes
+
+    // one more change
+
+    // one more
+    // Tsagana made a branch
+    // Tsagana made some changes
+
+
+
+
+    // zhanargul  made some changes
+
+    // new changes
+
+
 }
