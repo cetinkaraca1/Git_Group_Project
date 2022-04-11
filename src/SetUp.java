@@ -1,9 +1,16 @@
 public class SetUp {
     //setting up project for everyone
 
-    // Ferhat made a changes and edited this file
+    // some small changes
 
-    // Ferhat made more changes
+    // no more changes
+
+    // one more change
+
+    // one more
+
+
+
 
     // zhanargul  made some changes
 
