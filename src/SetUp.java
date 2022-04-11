@@ -8,9 +8,15 @@ public class SetUp {
     // one more change
 
     // one more
+    // Tsagana made a branch
+    // Tsagana made some changes
 
 
 
+
+    // zhanargul  made some changes
+
+    // new changes
 
 
 }
